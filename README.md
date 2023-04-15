@@ -7,9 +7,6 @@ Introductory Econometrics: A Modern Apporach is one of the most popular books am
 
 [Email](jaishreejoshita@gmail.com) Happy Learning!
 
-
-
-
 ## Introductory Econometrics: A Modern Approach
 
 
