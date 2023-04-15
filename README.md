@@ -1,5 +1,5 @@
-###
-### [Introductory-Econometrics: A-Modern-Approach](https://drive.google.com/file/d/1VHoqJ9wfjeCT9vtVkwUvInGMwBmQfM7m/view?usp=sharing)
+##
+## [Introductory-Econometrics: A-Modern-Approach](https://drive.google.com/file/d/1VHoqJ9wfjeCT9vtVkwUvInGMwBmQfM7m/view?usp=sharing)
 This repository contains the exercises and its solution contained in the book Introductory Econometrics - A Modern Approach by Jeffery Wooldridges.
 
 📖 [Textbook](https://drive.google.com/file/d/1VHoqJ9wfjeCT9vtVkwUvInGMwBmQfM7m/view?usp=sharing)
@@ -8,8 +8,8 @@ Introductory Econometrics: A Modern Apporach is one of the most popular books am
 
 [Email](jaishreejoshita@gmail.com) Happy Learning!
 
-###
-### Introductory Econometrics: A Modern Approach
+##
+## Introductory Econometrics: A Modern Approach
 
 
 
