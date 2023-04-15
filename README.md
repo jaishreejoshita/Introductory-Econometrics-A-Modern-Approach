@@ -1,1 +1,1 @@
-# Introductory-Econometrics---A-Modern-Approach
+# Introductory-Econometrics: A-Modern-Approach
